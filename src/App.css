@@ -1,0 +1,16 @@
+.main_body{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.todo_body{
+  border: 1px solid blueviolet;
+  min-width: 300px;
+  justify-content: space-between;
+  padding: 5px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
